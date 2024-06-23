@@ -1,0 +1,1 @@
+(Start -a> A1) (Start -b> N5) (A1 -a> N2) (A1 -b> N4) (N2 -a> A3) (N2 -b> N6) (A3 -a> N5) (A3 -b> N5) (N5 -a> N5) (N5 -b> N5) (N4 -a> A1) (N4 -b> N5) (N6 -a> N2) (N6 -b> N2)
